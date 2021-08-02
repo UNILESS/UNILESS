@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UNILESS
-- 👀 I’m interested in Information Security and Development
+- 👀 I’m interested in Information Security and ML
 - 🌱 I’m currently learning in Hanyang University ERICA 
 
 <!---
