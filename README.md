@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UNILESS
 - 👀 I’m interested in Machine Learning & Cyber Security
-- 🌱 I’m currently learning in Hanyang University ERICA 
+- 🌱 I’m currently learning in Korea University
 
 <!---
 UNILESS/UNILESS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
